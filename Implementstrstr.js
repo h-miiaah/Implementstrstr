@@ -21,5 +21,6 @@
 - If the needle is empty we will retrun 0
 - If the needle is equal to the haystack then there is no point to search the haystack, therefore we will return 0
 - We then loop over the haystack until haystack.length - needle.length because that is the last index of where a needle can be
+- Finally if we did not find any match we will return -1
 
 */
