@@ -14,3 +14,11 @@
     }
     return -1;
 };
+
+
+/*
+
+- If the needle is empty we will retrun 0
+- If the needle is equal to the haystack then there is no point to search the haystack, therefore we will return 0
+
+*/
